@@ -32,3 +32,6 @@ Example:
 ```text
 1.1.1.1.your.domain.xyz.
 ```
+
+# V2 now supports whitelisting of DNS
+Place your the domain that you want to mask the ip as by changing the `REDIRECT_TARGET` in the script.
